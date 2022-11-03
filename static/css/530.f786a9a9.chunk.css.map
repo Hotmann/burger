@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/530.f786a9a9.chunk.css","mappings":"AAAA,UAGE,WAAY,CAFZ,iBAAkB,CAClB,SAEF","sources":["components/Order/CheckoutSummary/CheckoutSummary.css"],"sourcesContent":[".CheckSum {\r\n  text-align: center;\r\n  width: 80%;\r\n  margin: auto;\r\n}\r\n"],"names":[],"sourceRoot":""}
